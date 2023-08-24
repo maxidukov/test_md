@@ -42,9 +42,10 @@ graph TD;
 Страна | Годы | Род занятий
 ---|---|---
 
-cell1 | cell2 | cell3
-cell1 | cell2 | cell3
-cell1 | cell2 | cell3
+Италия | cell2 | cell3
+Швейцария | cell2 | cell3
+Франция | cell2 | cell3
+Англия | cell2 | cell3
 
 </details>
 
