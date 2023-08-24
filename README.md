@@ -28,13 +28,13 @@ for(сщг){
     3. 
 }
 
-@startmermaid
+```mermaid
 graph TD;
     A[Получение должности<br />или покровительства<br />в новой стране]-->B;
     A-->C;
     B-->D;
     C-->D;
-@endmermaid
+```
 
 <details>
 <summary style="font-size:20px"><b>Расширенное описание</b></summary>
