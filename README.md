@@ -39,13 +39,12 @@ graph TD;
 <details>
 <summary style="font-size:20px"><b>Расширенное описание</b></summary>
 
-Страна | Годы | Род занятий
----|---|---
-
-Италия | cell2 | cell3
-Швейцария | cell2 | cell3
-Франция | cell2 | cell3
-Англия | cell2 | cell3
+| Страна | Годы | Род занятий |
+|:---|:---|:---|
+|Италия | cell2 | cell3|
+|Швейцария | cell2 | cell3|
+|Франция | cell2 | cell3|
+|Англия | cell2 | cell3|
 
 </details>
 
