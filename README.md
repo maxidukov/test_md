@@ -37,7 +37,8 @@ graph TD;
 ```
 
 <details>
-<summary style="font-size:20px"><b>Расширенное описание</b></summary>
+<!---<summary style="font-size:20px"><b>Расширенное описание</b></summary>--->
+<summary><h2 style="display"inline">Расширенное описание</h2></summary>
 
 | Страна | Годы | Род занятий |
 |---|---|---|
