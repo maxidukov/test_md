@@ -8,7 +8,7 @@ title: Giordano_Bruno
 name: My Site
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 
 #plugins:
