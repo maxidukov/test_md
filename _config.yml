@@ -1,6 +1,6 @@
 # Basic options
-# title: Giordano_Bruno
-# name: My Site
+title: Giordano_Bruno
+name: My Site
 
 # Build settings
 markdown: GFM
