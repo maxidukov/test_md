@@ -1,6 +1,6 @@
----
-mermaid: true
----
+#---
+#mermaid: true
+#---
 
 
 # Basic options
@@ -11,8 +11,8 @@ name: My Site
 markdown: GFM
 theme: minima
 
-plugins:
-  - jekyll-spaceship
+#plugins:
+#  - jekyll-spaceship
 
 plugins:
   - jekyll-titles-from-headings
