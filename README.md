@@ -40,12 +40,15 @@ graph TD;
 <!---<summary style="font-size:20px"><b>Расширенное описание</b></summary>--->
 <summary><h2 style="display:inline">Расширенное описание</h2></summary>
 
+<div "markdown=1">
 | Страна | Годы | Род занятий |
 |---|---|---|
 |Италия | cell2 | cell3|
 |Швейцария | cell2 | cell3|
 |Франция | cell2 | cell3|
 |Англия | cell2 | cell3|
+
+</div>
 
 </details>
 
