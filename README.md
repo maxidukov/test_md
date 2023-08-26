@@ -28,15 +28,13 @@ for(сщг){
     3. 
 }
 
-````markdown
-```mermaid!
+```mermaid
 graph TD;
     A[Получение должности<br />или покровительства<br />в новой стране]-->B;
     B-->C;
     C-->D;
     D-->A;
 ```
-````
 
 <details>
 <!---<summary style="font-size:20px"><b>Расширенное описание</b></summary>--->
