@@ -41,6 +41,7 @@ graph TD;
 <summary><h2 style="display:inline">Расширенное описание</h2></summary>
 
 <div "markdown=1">
+    
 | Страна | Годы | Род занятий |
 |---|---|---|
 |Италия | cell2 | cell3|
